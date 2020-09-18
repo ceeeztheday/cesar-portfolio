@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Cesar Jr</title>
+    <link>https://ceeeztheday.github.io/cesar-portfolio/post/</link>
+    <description>Recent content in Projects on Cesar Jr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ceeeztheday.github.io/cesar-portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project I: Name</title>
+      <link>https://ceeeztheday.github.io/cesar-portfolio/post/project-1/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://ceeeztheday.github.io/cesar-portfolio/post/project-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim. Consequat id porta nibh venenatis cras sed. Nisi est sit amet facilisis magna etiam tempor.   Felis donec et odio pellentesque diam volutpat commodo sed egestas. Felis imperdiet proin fermentum leo. Amet tellus cras adipiscing enim eu turpis egestas pretium. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Project VI: Name</title>
+      <link>https://ceeeztheday.github.io/cesar-portfolio/post/project-6/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://ceeeztheday.github.io/cesar-portfolio/post/project-6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim. Consequat id porta nibh venenatis cras sed. Nisi est sit amet facilisis magna etiam tempor.   Felis donec et odio pellentesque diam volutpat commodo sed egestas. Felis imperdiet proin fermentum leo. Amet tellus cras adipiscing enim eu turpis egestas pretium. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Project V: Name</title>
+      <link>https://ceeeztheday.github.io/cesar-portfolio/post/project-5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://ceeeztheday.github.io/cesar-portfolio/post/project-5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim. Consequat id porta nibh venenatis cras sed. Nisi est sit amet facilisis magna etiam tempor.   Felis donec et odio pellentesque diam volutpat commodo sed egestas. Felis imperdiet proin fermentum leo. Amet tellus cras adipiscing enim eu turpis egestas pretium. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Name</title>
+      <link>https://ceeeztheday.github.io/cesar-portfolio/post/project-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://ceeeztheday.github.io/cesar-portfolio/post/project-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim. Consequat id porta nibh venenatis cras sed. Nisi est sit amet facilisis magna etiam tempor.   Felis donec et odio pellentesque diam volutpat commodo sed egestas. Felis imperdiet proin fermentum leo. Amet tellus cras adipiscing enim eu turpis egestas pretium. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Name</title>
+      <link>https://ceeeztheday.github.io/cesar-portfolio/post/project-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://ceeeztheday.github.io/cesar-portfolio/post/project-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim. Consequat id porta nibh venenatis cras sed. Nisi est sit amet facilisis magna etiam tempor.   Felis donec et odio pellentesque diam volutpat commodo sed egestas. Felis imperdiet proin fermentum leo. Amet tellus cras adipiscing enim eu turpis egestas pretium. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Name</title>
+      <link>https://ceeeztheday.github.io/cesar-portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://ceeeztheday.github.io/cesar-portfolio/post/project-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim. Consequat id porta nibh venenatis cras sed. Nisi est sit amet facilisis magna etiam tempor.   Felis donec et odio pellentesque diam volutpat commodo sed egestas. Felis imperdiet proin fermentum leo. Amet tellus cras adipiscing enim eu turpis egestas pretium. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum.</description>
+    </item>
+    
+  </channel>
+</rss>
